@@ -4,6 +4,7 @@ A simple and responsive Expense Splitter Web App built using HTML, CSS, and Java
 This project allows users to add expenses, view the total amount, edit entries, and delete expenses dynamically.
 
 📌 Features
+
 ➕ Add new expenses
 📝 Edit existing expenses
 ❌ Delete expenses
