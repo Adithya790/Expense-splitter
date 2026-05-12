@@ -5,9 +5,12 @@ This project allows users to add expenses, view the total amount, edit entries, 
 
 📌 Features
 
-➕ Add new expenses
+➕ Add new expenses                                                                               
+
 📝 Edit existing expenses
+
 ❌ Delete expenses
+
 💰 Automatically calculates total expenses
 📱 Simple and responsive UI
 ⚡ Built with pure JavaScript (No frameworks)
