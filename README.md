@@ -12,8 +12,11 @@ This project allows users to add expenses, view the total amount, edit entries, 
 ❌ Delete expenses
 
 💰 Automatically calculates total expenses
+
 📱 Simple and responsive UI
-⚡ Built with pure JavaScript (No frameworks)
+
+⚡ Built with pure JavaScript
+
 📂 Project Structure
 
 Expense-Splitter/
